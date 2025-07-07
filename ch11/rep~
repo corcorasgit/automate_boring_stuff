@@ -1,0 +1,25 @@
+replacements = {
+    "[[wan gateway]]": "1.1.1.2",
+    "[[lan ip address]]": "8.8.8.8",
+    "[[domain name]]": "cisco.com",
+    "[[server ip]]": "7.7.7.7",
+    "[[lan description]]": "Hello IM the LAN INTERFACE",
+    "[[client number]]": "604-532-4321",
+    "[[timezone offset]]": "-8",
+    "[[state]]": "BC",
+    "[[dealer name]]": "Sunshine Motors",
+    "[[timezone]]": "PST",
+    "[[lan mask]]": "255.255.255.224",
+    "[[loopback data ip]]": "2.2.2.2",
+    "[[wan ip address]]": "1.1.1.1",
+    "[[loopback voice]]": "3.3.3.3",
+    "[[loopback voice description]]": "Hello IM the VOICE LOOPBACK",
+    "[[phone]]": "604-532-1234",
+    "[[contact]]": "Shaun Corcoran",
+    "[[hostname]]": "r1-123456",
+    "[[wan description]]": "Hello IM the WAN INTERFACE",
+    "[[loopback data description]]": "Hello IM the DATA LOOPBACK",
+    "[[wan mask]]": "255.255.255.248",
+    "[[city]]": "Langley"
+}
+
